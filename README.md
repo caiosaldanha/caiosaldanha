@@ -1,5 +1,8 @@
-<h1 align="center">Data Science</h1>
-<h3 align="center">Hi, I'm Caio Saldanha. I'm a Data Science student, musician, project manager, and almost writer. I love to learn new things, and produce music. Visit my datascience repo for projects. Articles repo for articles (dah!).</h3>
+<h1 align="center">DHi, I'm Caio! 😃</h1>
+<h3 align="center">Data Science</h3>
+<p align="center">Hi, I'm Caio Saldanha. I'm a Data Science student, musician, project manager, and almost writer.</p>
+<p align="center">I love to learn new things, and produce music.</p>
+<p align="center">Visit my datascience repo for projects, and Articles repo for articles.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
