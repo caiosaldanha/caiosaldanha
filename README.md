@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Caio! 😃</h1>
 <h3 align="center">Data Science</h3>
-<p align="center">Hi, I'm Caio Saldanha. I'm a Data Science student, musician, project manager, and almost writer.</p>
+<p align="center">Hi, I'm Caio Saldanha. I'm a Data Science student, musician, project manager, and almost a writer.</p>
 <p align="center">I love to learn new things, and produce music.</p>
 <p align="center">Visit my datascience repo for projects, and Articles repo for articles.</p>
 
