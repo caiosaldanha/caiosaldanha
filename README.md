@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Caio! 😃</h1>
 <h3 align="center">Data Science</h3>
-<p align="center">Hi, I'm Caio Saldanha, Data Sciencentist and Zelda Breath of the Wild player.</p>
-<p align="center">I love to learn new things, and share with the world.</p>
-<p align="center">Here is my datascience repo for projects.</p>
+<p align="center">Hi, I'm Caio Saldanha, Data Analyst to become a Data Scientist and Zelda player.</p>
+<p align="center">Portfolio 👇🏻</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
