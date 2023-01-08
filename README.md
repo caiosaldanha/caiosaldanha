@@ -1,5 +1,5 @@
 <h1 align="center">Data everywhere 🧮</h1>
-<p align="center">Hi, I'm Caio Saldanha, Data Analyst to become a Data Scientist and Zelda player.</p>
+<p align="center">Hi, I'm Caio Saldanha, Data Analyst, Zelda player and aspiring Data Scientist</p>
 <p align="center">Portfolio 👇🏻</p>
 
 <h3 align="left">Connect with me:</h3>
