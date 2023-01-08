@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Caio! 😃</h1>
-<h3 align="center">Data Science</h3>
+<h1 align="center">Data everywhere 🧮</h1>
 <p align="center">Hi, I'm Caio Saldanha, Data Analyst to become a Data Scientist and Zelda player.</p>
 <p align="center">Portfolio 👇🏻</p>
 
