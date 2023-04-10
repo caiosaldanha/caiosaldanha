@@ -12,3 +12,9 @@ Following are my main repos about Data Science & Analytics. Feel free to check a
 
 - [SQL Queries](https://github.com/caiosaldanha/sql_queries)
 - [Articles](https://github.com/caiosaldanha/articles)
+
+# Contacts & Social
+
+[linkedIn](https://www.linkedin.com/in/caiosaldanha) | [twitter](https://twitter.com/datacaio) | [caiosaldanha.com](https://caiosaldanha.com)
+
+[caio@caiosaldanha.com](mailto:caio@caiosaldanha.com)
