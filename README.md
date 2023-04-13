@@ -1,6 +1,6 @@
 # About me
 
-Hello, I'm Caio. I'm a Data Analyst and a Data Science Student with a passion for building creative and innovative solutions in data engineering, big data analytics, and process mining. I enjoy working in collaborative environments where I can work with diverse teams to solve complex problems.
+Hello, I'm Caio. I'm a Data Analyst and a Data Science Student with a passion for building creative and innovative solutions in data engineering, big data analytics, and process mining. I enjoy working in collaborative environments where I can collaborate with diverse teams to solve complex problems.
 
 My educational journey started with studying marketing, advertising, and linguistics during my undergraduate studies, and now I'm majoring in Big Data & Analytics Management from Senac. I'm also pursuing a certificate in Data Science & Machine Learning from Tera, as I believe in continuous learning and growth to keep up with the fast-evolving field of data science.
 
