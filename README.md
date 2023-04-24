@@ -10,6 +10,7 @@ In summary, I possess a diverse educational background that combines marketing, 
 
 Following are my main repos about Data Science & Analytics. Feel free to check and contribute!
 
+- [Statistics](https://github.com/caiosaldanha/statistics)
 - [SQL Queries](https://github.com/caiosaldanha/sql_queries)
 - [Articles](https://github.com/caiosaldanha/articles)
 
