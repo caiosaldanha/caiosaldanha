@@ -1,8 +1,8 @@
 # About me
 
-Hello, I'm Caio. I'm a Data Scientist with a passion for building creative and innovative solutions in data engineering, big data analytics, and product design. I enjoy working in collaborative environments where I can collaborate with diverse teams to solve complex problems.
+Hi, I'm Caio, a Data Scientist with broad experience and interests in Data Analysis, Data Engineering, ML Ops, AI, and Product Management. My background includes Web Development, Academic Research, Communication, Project Management, Python Programming, SQL, and JavaScript.
 
-My educational journey started with studying marketing, advertising, and linguistics during my undergraduate studies, and now I'm majoring in Big Data & Analytics Management from Senac. I'm also pursuing a certificate in Data Science & Machine Learning from Tera, as I believe in continuous learning and growth to keep up with the fast-evolving field of data science.
+I hold a BSc in Marketing from Senac (Brazil) and am currently pursuing an MBA in Big Data & Analytics Management from Senac, as well as a Data Science & Machine Learning Certificate from Tera (Brazil).
 
 # Data Science & Analytics Portfolio
 
