@@ -1,8 +1,15 @@
 # About me
 
-Hi, I'm Caio, a Data Scientist with broad experience and interests in Data Analysis, Data Engineering, ML Ops, AI, and Product Management. My background includes Web Development, Academic Research, Communication, Project Management, Python Programming, SQL, and JavaScript.
+Hi, 🙌🏻
+I'm a Data Scientist with broad experiences and interests in Data Analysis, Data Engineering, ML Ops, AI, and Product Management.
 
-I hold a BSc in Marketing from Senac (Brazil) and am currently pursuing an MBA in Big Data & Analytics Management from Senac, as well as a Data Science & Machine Learning Certificate from Tera (Brazil).
+My background includes Python Programming, SQL, JavaScript, Web Development, Academic Research & Communication, and Project Management.
+
+I hold a BSc in Marketing from Senac (Brazil) and I am currently pursuing an MBA in Big Data & Analytics Management from Senac, as well as a Data Science & Machine Learning Certificate from Tera (Brazil).
+
+Honors & Awards
+24 heures d'innovation - ESTIA, Bidart, France. 2014
+Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
 # Data Science & Analytics Portfolio
 
