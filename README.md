@@ -15,7 +15,7 @@ Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
 Following are my main repos about Data Science & Analytics. Feel free to check and contribute!
 
-- [Statistics](https://github.com/caiosaldanha/statistics)
+- [Statistics](https://github.com/caiosaldanha/this_is_statistics)
 - [SQL Queries](https://github.com/caiosaldanha/sql_queries)
 - [Articles](https://github.com/caiosaldanha/articles)
 
