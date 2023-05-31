@@ -11,7 +11,7 @@ Honors & Awards
 24 heures d'innovation - ESTIA, Bidart, France. 2014
 Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
-# Data Science & Analytics Portfolio
+# Data Science & Analytics Content
 
 Following are my main repos about Data Science & Analytics. Feel free to check and contribute!
 
