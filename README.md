@@ -8,16 +8,23 @@ Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
 Interests: Artificial Inteligence, Machine Learning, Deep Learning, Big Data Engineering, Cloud Computing, Audio Engineering, Natural Language Processing, Digital Product Development, Entrepreneurship.
 
-# Projects
-
-Following are my main repos about Data Science & Analytics. Feel free to check and contribute!
-
-- [This Is Statistics](https://github.com/caiosaldanha/this_is_statistics)
-- [SQL Queries](https://github.com/caiosaldanha/sql_queries)
-- [Articles](https://github.com/caiosaldanha/articles)
-
-# Social
+## Social
 
 [linkedIn](https://www.linkedin.com/in/caiosaldanha) | [twitter](https://twitter.com/datacaio) | [caiosaldanha.com](https://caiosaldanha.com)
 
 [caio@caiosaldanha.com](mailto:caio@caiosaldanha.com)
+
+# Main projects
+
+Learning content
+
+<p align="left">
+  <a href="https://github.com/caiosaldanha/this_is_statistics"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caiosaldanha&repo=this_is_statistics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+
+  </p>
+
+Experiments
+<p align="left">
+  <a href="https://github.com/caiosaldanha/sql_queries"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caiosaldanha&repo=sql_queries&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+
+<p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caiosaldanha&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt=“caiosaldanha” />
