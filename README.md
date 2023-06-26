@@ -9,18 +9,6 @@ Graduated in Marketing from Senac-SP, currently pursuing a postgraduate degree i
 
 Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
-<h3 align="left">Interests</h3>
-
-- Artificial Inteligence
-- Machine Learning
-- Deep Learning
-- Big Data Engineering
-- Cloud Computing
-- Audio Engineering
-- Natural Language Processing
-- Digital Product Development
-- Entrepreneurship
-
 <h3 align="left">Blog</h3>
 
 <p align='left'>
