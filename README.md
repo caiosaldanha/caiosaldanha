@@ -9,11 +9,14 @@ Graduated in Marketing from Senac-SP, currently pursuing a postgraduate degree i
 
 Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
 
-<h3 align="left">Blog</h3>
+<h3 align="left">Website</h3>
 
 <p align='left'>
   <a href='https://caiosaldanha.com'>caiosaldanha.com</a>  
 </p>
+
+<h3 align="left">Certificates</h3>
+
 <p>
   <a href='https://www.cloudskillsboost.google/public_profiles/fce2bb91-630c-4226-b775-5261f6014186'>Google Skills Boost</a>
 </p>
