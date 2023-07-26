@@ -1,13 +1,25 @@
 <h1 align="left">Hi 👋, I'm Caio Saldanha</h1>
-<h3 align="left">Data Scientist</h3>
+<h3 align="left">Data Engineering | Big Data | Data Science & Machine Learning</h3>
 
-Graduated in Marketing from Senac-SP, currently pursuing a postgraduate degree in Big Data Management and Analytics at Senac-SP, as well as the Data Science and Machine Learning certificate by Tera. Co-creator of the georeferenced poetry platform poemaps.org. Has published scientific articles in the fields of Literature and Psychoanalysis, with international and national scopes, respectively.
+Hello, my name is Caio Saldanha. I am a Data Engineer who previously worked as a Technical Project Manager and Musician. On my journey, I have created and co-created practical solutions using large amounts of data to solve business problems. In 2020, I founded Audio Rules with the proposal to produce music and guide artists using Generative Models and other possibilities in Artificial Intelligence. Since then, I have invested in training in the data area, including Data Science, Machine Learning, Cloud (MBA in Big Data & Analytics Management), and Data Engineering.
 
 <h3 align="left">Honors & Awards</h3>
 
 24 heures d'innovation - ESTIA, Bidart, France. 2014
 
 Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
+
+<h3 align="left">Tech Stack</h3>
+
+Big Data: Hadoop, Spark, Kafka, Spark SQL
+
+Data Warehousing: Amazon Redshift, Google BigQuery, Microsoft Azure Data Lake, Databricks
+
+Data Modeling: ER/Studio, PowerDesigner, erwin Data Modeler, Oracle SQL Developer Data Modeler, MySQL Workbench
+
+Machine Learning: TensorFlow, PyTorch, Keras, Scikit-learn
+
+Data Visualization: Tableau, QlikView, Power BI, Looker, Looker BI
 
 <h3 align="left">Website</h3>
 
