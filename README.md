@@ -11,18 +11,18 @@ I have an undergraduate degree in Marketing from Senac-SP and I am currently pur
 
 # Main projects
 
-Books
-
-<p align="left">
-  <a href="https://github.com/caiosaldanha/this_is_statistics"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caiosaldanha&repo=this_is_statistics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
-
-</p>
-
 Data Engineering
 
 <p align="left">
   <a href="https://github.com/caiosaldanha/sql_queries"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caiosaldanha&repo=sql_queries&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
   
+</p>
+
+Books
+
+<p align="left">
+  <a href="https://github.com/caiosaldanha/this_is_statistics"><img width="400" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=caiosaldanha&repo=this_is_statistics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="atsaf"></a>
+
 </p>
 
 <p align="left"> <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=caiosaldanha&hide=java,html,tex&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&langs_count=4)" alt=“caiosaldanha” />
