@@ -1,47 +1,13 @@
-<h1 align="left">Hi 👋, I'm Caio Saldanha</h1>
-<h3 align="left">Data Engineering | Big Data | Data Science & Machine Learning</h3>
+<h1 align="left">Caio Saldanha</h1>
+<h3 align="left">About</h3>
 
-Hello, my name is Caio Saldanha. I am a Data Engineer who previously worked as a Technical Project Manager and Musician. On my journey, I have created and co-created practical solutions using large amounts of data to solve business problems. In 2020, I founded Audio Rules with the proposal to produce music and guide artists using Generative Models and other possibilities in Artificial Intelligence. Since then, I have invested in training in the data area, including Data Science, Machine Learning, Cloud (MBA in Big Data & Analytics Management), and Data Engineering.
+Hello! My name is Caio Saldanha and I am a Data Engineer focused on creating solutions through the conscious and sustainable use of data.
 
-<h3 align="left">Honors & Awards</h3>
+I have an undergraduate degree in Marketing from Senac-SP and I am currently pursuing an MBA in Big Data & Analytics at Senac-SP, as well as studying Data Science and Machine Learning at Tera. 
 
-24 heures d'innovation - ESTIA, Bidart, France. 2014
-
-Young Agent of Culture of Brazil - Ministry of Culture of Brazil. 2012
-
-<h3 align="left">Tech Stack</h3>
-
-Big Data: Hadoop, Spark, Kafka, Spark SQL
-
-Data Warehousing: Amazon Redshift, Google BigQuery, Microsoft Azure Data Lake, Databricks
-
-Data Modeling: ER/Studio, PowerDesigner, erwin Data Modeler, Oracle SQL Developer Data Modeler, MySQL Workbench
-
-Machine Learning: TensorFlow, PyTorch, Keras, Scikit-learn
-
-Data Visualization: Tableau, QlikView, Power BI, Looker, Looker BI
-
-<h3 align="left">Website</h3>
-
-<p align='left'>
-  <a href='https://caiosaldanha.com'>caiosaldanha.com</a>  
-</p>
-
-<h3 align="left">Certificates</h3>
-
-<p>
-  <a href='https://www.cloudskillsboost.google/public_profiles/fce2bb91-630c-4226-b775-5261f6014186'>Google Skills Boost</a>
-</p>
-
-<h3 align="left">Social</h3>
-
-<p align="left">
-  <a href="https://linkedin.com/in/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiosaldanha" height="30" width="40" /></a>
-<a href="https://twitter.com/datacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datacaio" height="30" width="40" /></a>
-<a href="https://kaggle.com/caioscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caioscience" height="30" width="40" /></a>
-<a href="https://medium.com/@ifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ifs" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caiosaldanha" height="30" width="40" /></a>
-</p>
+| <h3>Website</h3> | <h3>Certificates</h3> | <h3>Social</h3> |
+| - | - | - |
+| [caiosaldanha.com](https://caiosaldanha.com) | [Google Skills Boost](https://www.cloudskillsboost.google/public_profiles/fce2bb91-630c-4226-b775-5261f6014186) | <a href="https://linkedin.com/in/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiosaldanha" height="30" width="40" /></a> <a href="https://twitter.com/datacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datacaio" height="30" width="40" /></a> <a href="https://kaggle.com/caioscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caioscience" height="30" width="40" /></a> <a href="https://medium.com/@ifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ifs" height="30" width="40" /></a> <a href="https://www.youtube.com/c/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caiosaldanha" height="30" width="40" /></a> |
 
 # Main projects
 
