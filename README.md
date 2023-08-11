@@ -3,20 +3,6 @@
 
 Data Engineer with 2+ years of experience in big data technologies. Proven ability to design, develop, and deploy data pipelines and data warehouses. Expertise in Hadoop, Spark, and Kafka. Strong analytical and problem-solving skills. MBA in Big Data & Analytics from Senac-SP and Marketing BSc from Senac-SP.
 
-### TECH STACK
-
-Programming: Python, R, SQL, JavaScript, PHP
-
-Big Data: Hadoop, Spark, Kafka, Spark SQL
-
-Data Warehousing: Amazon Redshift, Google BigQuery, Microsoft Azure Data Lake, Databricks
-
-Data Modeling: ER/Studio, PowerDesigner, erwin Data Modeler, Oracle SQL Developer Data Modeler, MySQL Workbench
-
-Machine Learning: TensorFlow, PyTorch, Keras, Scikit-learn
-
-Data Visualization: Tableau, QlikView, Power BI, Looker, Looker BI
-
 | Website | Certificates | Social |
 | - | - | - |
 | [caiosaldanha.com](https://caiosaldanha.com) | [Google Skills Boost](https://www.cloudskillsboost.google/public_profiles/fce2bb91-630c-4226-b775-5261f6014186) | <a href="https://linkedin.com/in/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiosaldanha" height="30" width="40" /></a> <a href="https://twitter.com/datacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datacaio" height="30" width="40" /></a> <a href="https://kaggle.com/caioscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caioscience" height="30" width="40" /></a> <a href="https://medium.com/@ifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ifs" height="30" width="40" /></a> <a href="https://www.youtube.com/c/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caiosaldanha" height="30" width="40" /></a> |
