@@ -1,9 +1,21 @@
 <h1 align="left">Caio Saldanha</h1>
 <h3 align="left">About</h3>
 
-Hello! My name is Caio Saldanha and I am a Data Engineer focused on creating solutions through the conscious and sustainable use of data.
+Data Engineer with 2+ years of experience in big data technologies. Proven ability to design, develop, and deploy data pipelines and data warehouses. Expertise in Hadoop, Spark, and Kafka. Strong analytical and problem-solving skills. MBA in Big Data & Analytics from Senac-SP and Marketing BSc from Senac-SP.
 
-I have an undergraduate degree in Marketing from Senac-SP and I am currently pursuing an MBA in Big Data & Analytics at Senac-SP, as well as studying Data Science and Machine Learning at Tera. 
+### TECH STACK
+
+Programming: Python, R, SQL, JavaScript, PHP
+
+Big Data: Hadoop, Spark, Kafka, Spark SQL
+
+Data Warehousing: Amazon Redshift, Google BigQuery, Microsoft Azure Data Lake, Databricks
+
+Data Modeling: ER/Studio, PowerDesigner, erwin Data Modeler, Oracle SQL Developer Data Modeler, MySQL Workbench
+
+Machine Learning: TensorFlow, PyTorch, Keras, Scikit-learn
+
+Data Visualization: Tableau, QlikView, Power BI, Looker, Looker BI
 
 | Website | Certificates | Social |
 | - | - | - |
