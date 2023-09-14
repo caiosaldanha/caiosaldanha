@@ -1,4 +1,6 @@
-# Caio Saldanha
+![](./banner.png)
+
+# Hi, I'm Caio 👍
 
 Data Engineer with 2+ years of experience in big data technologies. Proven ability to design, develop, and deploy data pipelines and data warehouses. Expertise in Hadoop, Spark, and Kafka. Strong analytical and problem-solving skills. MBA in Big Data & Analytics from Senac-SP and Marketing BSc from Senac-SP.
 
