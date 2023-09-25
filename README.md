@@ -2,7 +2,7 @@
 
 <hr>
 
-Data Engineer with 2+ years of experience in big data technologies. Proven ability to design, develop, and deploy data pipelines and data warehouses. Expertise in Hadoop, Spark, and Kafka. Strong analytical and problem-solving skills. MBA in Big Data & Analytics from Senac-SP and Marketing BSc from Senac-SP.
+With a rich background encompassing more than two years of dedicated experience in the realm of data engineering and analytics, Caio Saldanha stands out as a seasoned professional with a profound ability to steer and enhance data operations for top-tier organizations. His expansive knowledge extends across the realm of Big Data technologies, proficiency in navigating cloud platforms such as GCP and AWS, and adeptness with an array of data modeling tools.
 
 <hr>
 
