@@ -1,6 +1,6 @@
 # Hello 🙌 I'm Caio
 
-Experienced Data Engineer with a strong foundation in Marketing and a comprehensive skill set in Big Data Management and Analytics. Currently pursuing a postgraduate degree in Big Data Management and Analytics, along with certifications in Google Cloud and Data Science. Proficient in a range of technologies including Hadoop, Spark, Kafka, and various data warehousing solutions. Skilled in data modeling, machine learning, and data visualization tools. Fluent in multiple languages, with a proven track record of achievements in both national and international contexts.
+I'm a Data Engineer with a strong foundation in Marketing and a comprehensive skill set in Big Data Management and Analytics. Currently pursuing a postgraduate degree in Big Data Management and Analytics, along with certifications in Google Cloud and Data Science. Proficient in a range of technologies including Hadoop, Spark, Kafka, and various data warehousing solutions. Skilled in data modeling, machine learning, and data visualization tools. Fluent in multiple languages, with a proven track record of achievements in both national and international contexts.
 
 - [caiosaldanha.com](https://caiosaldanha.com)
 
