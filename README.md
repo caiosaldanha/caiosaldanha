@@ -1,4 +1,4 @@
-# Hello 🙌 I'm Caio
+# Hello, I'm Caio 🤘
 
 Data Engineer at Kosmut AI
 
