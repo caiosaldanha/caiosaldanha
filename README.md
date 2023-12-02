@@ -1,22 +1,21 @@
-# Hello, I'm Caio 🤘
+# Caio Saldanha
 
 Data Engineer at Kosmut AI
 
-MBA in BIg Data & Analytics, Senac-SP
+[caiosaldanha.com](https://caiosaldanha.com)
 
-- [caiosaldanha.com](https://caiosaldanha.com)
 
-- [Google Cloud certificates](https://www.cloudskillsboost.google/public_profiles/fce2bb91-630c-4226-b775-5261f6014186)
+<!--links>
+<a href="https://linkedin.com/in/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiosaldanha" height="30" width="40" /></a> 
 
-<br>
-<br>
+<a href="https://twitter.com/datacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datacaio" height="30" width="40" /></a> 
 
-<!--links-->
-<a href="https://linkedin.com/in/caiosaldanha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caiosaldanha" height="30" width="40" /></a> <a href="https://twitter.com/datacaio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="datacaio" height="30" width="40" /></a> <a href="https://kaggle.com/caioscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caioscience" height="30" width="40" /></a> <a href="https://medium.com/@ifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ifs" height="30" width="40" /></a> <a href="https://www.youtube.com/@caiosaldanha" target="blank">
+<a href="https://kaggle.com/caioscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="caioscience" height="30" width="40" /></a> 
+
+<a href="https://medium.com/@ifs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ifs" height="30" width="40" /></a> 
+
+<a href="https://www.youtube.com/@caiosaldanha" target="blank"-->
 <!--img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="caiosaldanha" height="30" width="40" /></a-->
-
-<br>
-<br>
 
 <!--books>
 <h3>Data Engineering</h3>
@@ -30,7 +29,7 @@ MBA in BIg Data & Analytics, Senac-SP
 </p-->
 
 <!--stats-->
-<picture>
+<!--picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=caiosaldanha&show_icons=true&theme=transparent"
     media="(prefers-color-scheme: transparent)"
@@ -40,4 +39,4 @@ MBA in BIg Data & Analytics, Senac-SP
     media="(prefers-color-scheme: transparent), (prefers-color-scheme: transparent)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=caiosaldanha&show_icons=true" />
-</picture>
+</picture-->
