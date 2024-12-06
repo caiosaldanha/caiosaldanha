@@ -1,6 +1,6 @@
 # Caio Saldanha
 
-Data Engineer at Kosmut AI
+Data + AI Architect
 
 [caiosaldanha.com](https://caiosaldanha.com)
 
