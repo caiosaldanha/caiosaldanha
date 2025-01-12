@@ -1,6 +1,6 @@
 # Caio Saldanha
 
-Data + AI Architect
+Enterprise Architect
 
 [caiosaldanha.com](https://caiosaldanha.com)
 
