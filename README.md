@@ -1,5 +1,5 @@
 # Caio Saldanha
 
-Solutions Architect
+Solutions Architect | Data & AI
 
 [caiosaldanha.com](https://caiosaldanha.com)
