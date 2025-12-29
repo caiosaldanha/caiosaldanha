@@ -1,7 +1,6 @@
 ## Solutions Architect - Data & AI
 
 **Focus Areas**
----
 
 * AI & Generative AI
 * MLOps
@@ -11,7 +10,6 @@
 
 
 **Education**
----
 
 (2027) MBA - Business Management, Fundação Dom Cabral
 
