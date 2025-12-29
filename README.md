@@ -1,7 +1,26 @@
-Senior Data & AI Architect with proven experience leading enterprise-scale AI and data initiatives.
+## Solutions Architect - Data & AI
 
-I operate at the intersection of strategy and engineering, aligning executives and multidisciplinary teams to connect business priorities with advanced technologies. My expertise spans AI/GenAI, MLOps, and Cloud (GCP, Azure, AWS), applying a transparent, repeatable, standards-based methodology to move from strategy to scale with governance by design.
+**Focus Areas**
+---
 
-I hold a Postgraduate degree in Machine Learning Engineering (FIAP) and an MBA in Big Data & Analytics (Senac), and I am currently pursuing a Business Management MBA at Fundação Dom Cabral. Certifications include Google Cloud Digital Leader and Databricks Platform Architect. Beyond technical depth, my differentiator is translating strategic objectives into actionable AI roadmaps and operating models, with guardrails and benefits tracking to ensure value realization at scale.
+* AI & Generative AI
+* MLOps
+* Cloud-Native Applications (GCP, Azure, AWS)
+* Data Engineering & Analytics
+* Big Data & Distributed Systems
 
-Currently, I’m focused on leveraging Generative AI to reimagine processes, enhance customer experiences, and accelerate digital transformation: auditable, secure, and scalable.
+
+**Education**
+---
+
+(2027) MBA - Business Management, Fundação Dom Cabral
+
+(2025) Postgraduate - Machine Learning Engineering, FIAP
+
+(2023) MBA - Big Data & Analytics Management, Senac
+
+(2023) Certificate - Data Science & Machine Learning, Tera
+
+(2022) Bachelor’s - Marketing, Senac
+
+(2008) Certificate - Entrepreneurship, Babson College
