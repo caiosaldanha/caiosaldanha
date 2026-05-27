@@ -11,7 +11,7 @@ Founder at [Kosmut AI](https://kosmut.com) — executive advisory on AI strategy
 
 **Current focus**
 
-- Corporate frameworks for regulated environments
+- Corporate AI frameworks specially on higly regulated environments
 - GenAI platform architecture and governance at scale
 - AI risk frameworks for C-suite decision-making
 
