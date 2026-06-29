@@ -4,7 +4,7 @@ AI Architect
 
 ---
 
-Designing enterprise AI infrastructure at [Cielo](https://www.cielo.com.br) — Brazil's largest card payment processor.  
+Designing enterprise AI infrastructure at Brazil's largest card payment processor.  
 Founder at [Kosmut AI](https://kosmut.com) — executive advisory on AI strategy and governance.
 
 ---
