@@ -4,14 +4,14 @@ AI Architect
 
 ---
 
-Designing enterprise AI infrastructure at Brazil's largest card payment processor.  
+Designing enterprise AI infrastructure.  
 Founder at [Kosmut AI](https://kosmut.com) — executive advisory on AI strategy and governance.
 
 ---
 
 **Current focus**
 
-- Corporate AI frameworks specially on higly regulated environments
+- Corporate AI frameworks
 - GenAI platform architecture and governance at scale
 - AI risk frameworks for C-suite decision-making
 
