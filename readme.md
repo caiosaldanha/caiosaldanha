@@ -3,6 +3,7 @@
 ---
 
 Founder of [Kosmut AI](https://kosmut.com)
+
 Senior Staff AI Architect @ Telus Digital
 
 ---
